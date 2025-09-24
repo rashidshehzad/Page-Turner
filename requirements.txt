@@ -1,0 +1,7 @@
+fitz
+tkinter
+PIL
+sys
+speech_recognition
+difflib
+copy
