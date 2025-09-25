@@ -1,5 +1,5 @@
 # Page-Turner
-A TKinter programme that lets musicians or other users turn pdf pages jump to others with voice commands.
+A TKinter programme that lets musicians or other users turn pdf pages or jump to others with voice commands.
 Requirements - 
 python 3.12
   Python libraries - 
