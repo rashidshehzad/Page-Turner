@@ -1,5 +1,2 @@
 fitz
 pillow
-speech_recognition
-difflib
-copy
