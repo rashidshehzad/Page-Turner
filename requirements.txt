@@ -1,5 +1,4 @@
 fitz
-python3-tk
 PIL
 sys
 speech_recognition
