@@ -1,6 +1,5 @@
 fitz
 pillow
-sys
 speech_recognition
 difflib
 copy
